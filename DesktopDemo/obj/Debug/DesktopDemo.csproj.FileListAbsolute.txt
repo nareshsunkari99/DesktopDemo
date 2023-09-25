@@ -9,3 +9,14 @@ Z:\ODS\DesktopDemo\obj\Debug\DesktopDemo.csproj.GenerateResource.cache
 Z:\ODS\DesktopDemo\obj\Debug\DesktopDemo.csproj.CoreCompileInputs.cache
 Z:\ODS\DesktopDemo\obj\Debug\DesktopDemo.exe
 Z:\ODS\DesktopDemo\obj\Debug\DesktopDemo.pdb
+Z:\ODS\Desktop\DesktopDemo\DesktopDemo\bin\Debug\DesktopDemo.exe.config
+Z:\ODS\Desktop\DesktopDemo\DesktopDemo\bin\Debug\DesktopDemo.exe
+Z:\ODS\Desktop\DesktopDemo\DesktopDemo\bin\Debug\DesktopDemo.pdb
+Z:\ODS\Desktop\DesktopDemo\DesktopDemo\obj\Debug\DesktopDemo.csproj.AssemblyReference.cache
+Z:\ODS\Desktop\DesktopDemo\DesktopDemo\obj\Debug\DesktopDemo.csproj.SuggestedBindingRedirects.cache
+Z:\ODS\Desktop\DesktopDemo\DesktopDemo\obj\Debug\DesktopDemo.Form1.resources
+Z:\ODS\Desktop\DesktopDemo\DesktopDemo\obj\Debug\DesktopDemo.Properties.Resources.resources
+Z:\ODS\Desktop\DesktopDemo\DesktopDemo\obj\Debug\DesktopDemo.csproj.GenerateResource.cache
+Z:\ODS\Desktop\DesktopDemo\DesktopDemo\obj\Debug\DesktopDemo.csproj.CoreCompileInputs.cache
+Z:\ODS\Desktop\DesktopDemo\DesktopDemo\obj\Debug\DesktopDemo.exe
+Z:\ODS\Desktop\DesktopDemo\DesktopDemo\obj\Debug\DesktopDemo.pdb

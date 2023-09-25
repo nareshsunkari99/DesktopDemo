@@ -50,5 +50,17 @@ namespace DesktopDemo
                 listBox1.Items.Add(d.Name);
             }
         }
+
+        private void form2ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form2 form2 = new Form2();
+            form2.MdiParent = this;
+            form2.Show();
+        }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
